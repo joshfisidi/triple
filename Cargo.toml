@@ -1,0 +1,3 @@
+[dependencies]
+sha2 = "0.10.0"
+digest = "0.10.0"
